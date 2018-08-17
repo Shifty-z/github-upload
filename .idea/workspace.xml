@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f252b5dd-85fc-42d1-ad8d-d79bffdc9eeb" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-85996857">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="9327" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="9327" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Asteroids/src/Panels/WelcomeScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1184">
+              <caret line="107" column="9" selection-start-line="107" selection-start-column="9" selection-end-line="107" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;method#createLayout#0;class#WelcomeScreen#0" />
+                <element signature="method#createLayout#0;class#WelcomeScreen#0" />
+                <element signature="docComment;method#createMenuObjects#0;class#WelcomeScreen#0" />
+                <element signature="method#createMenuObjects#0;class#WelcomeScreen#0" />
+                <element signature="docComment;method#createButtons#0;class#WelcomeScreen#0" />
+                <element signature="method#createButtons#0;class#WelcomeScreen#0" />
+                <element signature="docComment;method#listenToSubPanelButtons#0;class#WelcomeScreen#0" />
+                <element signature="docComment;method#drawMenu#0;class#WelcomeScreen#0" />
+                <element signature="method#drawMenu#0;class#WelcomeScreen#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Asteroids/src/Panels/StartGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="842">
+              <caret line="186" column="38" selection-start-line="186" selection-start-column="38" selection-end-line="186" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;method#createTimer#0;class#StartGame#0" />
+                <element signature="method#createTimer#0;class#StartGame#0" />
+                <element signature="docComment;method#createButtons#0;class#StartGame#0" />
+                <element signature="method#createButtons#0;class#StartGame#0" />
+                <element signature="docComment;method#createGameObjects#0;class#StartGame#0" />
+                <element signature="docComment;method#actionPerformed#0;class#StartGame#0" />
+                <element signature="docComment;method#keyPressed#0;class#StartGame#0" />
+                <element signature="method#keyTyped#0;class#StartGame#0" />
+                <element signature="method#keyReleased#0;class#StartGame#0" />
+                <marker date="1534194723503" expanded="true" signature="4619:5269" ph="..." />
+                <marker date="1534194723503" expanded="false" signature="4651:5269" ph="..." />
+                <marker date="1534194723503" expanded="false" signature="5746:5861" ph="..." />
+                <marker date="1534194723503" expanded="false" signature="6058:6193" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Asteroids/src/Panels/GameObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="32" />
+              <folding>
+                <element signature="docComment;method#GameObject#0;class#GameObject#0" />
+                <element signature="docComment;method#GameObject#1;class#GameObject#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Asteroids/src/Panels/app.java" />
+        <option value="$PROJECT_DIR$/Asteroids/src/Panels/ControlPanel.java" />
+        <option value="$PROJECT_DIR$/Asteroids/src/Panels/Options.java" />
+        <option value="$PROJECT_DIR$/Asteroids/src/Panels/WelcomeScreen.java" />
+        <option value="$PROJECT_DIR$/Asteroids/src/Panels/StartGame.java" />
+        <option value="$PROJECT_DIR$/Asteroids/src/Panels/GameObject.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="507" />
+    <option name="y" value="39" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Packaging issuesJava</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Asteroids" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Asteroids" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Asteroids" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Asteroids" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Asteroids" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Asteroids" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Panels" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="S:/IST240/Lab10" />
+    <property name="settings.editor.selected.configurable" value="diff.base" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Panels.app" />
+      <module name="Asteroids" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Panels.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f252b5dd-85fc-42d1-ad8d-d79bffdc9eeb" name="Default Changelist" comment="" />
+      <created>1534116742214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534116742214</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24360341" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30260304" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.33188722" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Asteroids/src/Panels/app.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#79#80#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Asteroids/src/Panels/ControlPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="61" column="17" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#createWelcomeScreen#0;class#ControlPanel#0" />
+            <element signature="docComment;method#constructFrame#0;class#ControlPanel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Asteroids/src/Panels/Options.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="20" column="79" selection-start-line="20" selection-start-column="79" selection-end-line="20" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#createLayout#0;class#Options#0" />
+            <element signature="docComment;method#createButtons#0;class#Options#0" />
+            <element signature="e#1220#1221#0" expanded="true" />
+            <element signature="e#1258#1259#0" expanded="true" />
+            <element signature="e#1295#1296#0" expanded="true" />
+            <element signature="e#1332#1333#0" expanded="true" />
+            <element signature="e#1369#1370#0" expanded="true" />
+            <element signature="e#1406#1407#0" expanded="true" />
+            <element signature="e#1443#1444#0" expanded="true" />
+            <element signature="e#1480#1481#0" expanded="true" />
+            <element signature="e#1518#1519#0" expanded="true" />
+            <element signature="e#1550#1551#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Asteroids/src/Panels/WelcomeScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1184">
+          <caret line="107" column="9" selection-start-line="107" selection-start-column="9" selection-end-line="107" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#createLayout#0;class#WelcomeScreen#0" />
+            <element signature="method#createLayout#0;class#WelcomeScreen#0" />
+            <element signature="docComment;method#createMenuObjects#0;class#WelcomeScreen#0" />
+            <element signature="method#createMenuObjects#0;class#WelcomeScreen#0" />
+            <element signature="docComment;method#createButtons#0;class#WelcomeScreen#0" />
+            <element signature="method#createButtons#0;class#WelcomeScreen#0" />
+            <element signature="docComment;method#listenToSubPanelButtons#0;class#WelcomeScreen#0" />
+            <element signature="docComment;method#drawMenu#0;class#WelcomeScreen#0" />
+            <element signature="method#drawMenu#0;class#WelcomeScreen#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Asteroids/src/Panels/GameObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="32" />
+          <folding>
+            <element signature="docComment;method#GameObject#0;class#GameObject#0" />
+            <element signature="docComment;method#GameObject#1;class#GameObject#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Asteroids/src/Panels/StartGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="842">
+          <caret line="186" column="38" selection-start-line="186" selection-start-column="38" selection-end-line="186" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#createTimer#0;class#StartGame#0" />
+            <element signature="method#createTimer#0;class#StartGame#0" />
+            <element signature="docComment;method#createButtons#0;class#StartGame#0" />
+            <element signature="method#createButtons#0;class#StartGame#0" />
+            <element signature="docComment;method#createGameObjects#0;class#StartGame#0" />
+            <element signature="docComment;method#actionPerformed#0;class#StartGame#0" />
+            <element signature="docComment;method#keyPressed#0;class#StartGame#0" />
+            <element signature="method#keyTyped#0;class#StartGame#0" />
+            <element signature="method#keyReleased#0;class#StartGame#0" />
+            <marker date="1534194723503" expanded="true" signature="4619:5269" ph="..." />
+            <marker date="1534194723503" expanded="false" signature="4651:5269" ph="..." />
+            <marker date="1534194723503" expanded="false" signature="5746:5861" ph="..." />
+            <marker date="1534194723503" expanded="false" signature="6058:6193" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
